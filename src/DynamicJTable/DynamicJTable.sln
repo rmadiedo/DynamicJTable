@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicJTableApp", "DynamicJTableApp\DynamicJTableApp.csproj", "{2CA5DBE1-77D7-4423-A380-67093506604C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicJTable", "DynamicJTable\DynamicJTable.csproj", "{5D9B6A39-2631-4A97-8A9E-53CDB4B7F277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA5DBE1-77D7-4423-A380-67093506604C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA5DBE1-77D7-4423-A380-67093506604C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA5DBE1-77D7-4423-A380-67093506604C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA5DBE1-77D7-4423-A380-67093506604C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D9B6A39-2631-4A97-8A9E-53CDB4B7F277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9B6A39-2631-4A97-8A9E-53CDB4B7F277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9B6A39-2631-4A97-8A9E-53CDB4B7F277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9B6A39-2631-4A97-8A9E-53CDB4B7F277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F83FF757-D063-47E0-8E9F-C02C0CBC0CA9}
+	EndGlobalSection
+EndGlobal
